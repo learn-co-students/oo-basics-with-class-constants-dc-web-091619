@@ -16,6 +16,3 @@ class Shoe
   end
 
 end
-
-sneaker = Shoe.new('nike')
-sneaker2 = Shoe.new('nike')
